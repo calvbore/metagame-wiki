@@ -178,7 +178,9 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## (MetaGame) Roles
 
-<!-- TODO -->
+Roles are sets of behaviours that any MetaGame player can take on. Anyone is free to play multiple roles at any time. Passive roles are more like "wanted behaviours", while main roles require more direct and deliberate actions.
+
+See [Roles in MetaGame](roles-in-metagame.md)
 
 <!---------------- ⭐️  S  ⭐️ ---------------->
 
