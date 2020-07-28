@@ -212,7 +212,7 @@ The group of people contributing to Metagame. See [MetaFam in the MetaManifesto]
 
 ## Web3
 
-<!-- TODO -->
+An ecosystem of decentralized and peer-to-peer protocols, applications, and technologies seeking solutions to the internet's current pitfalls such as centralization, lack of data privacy, and rampant advertising.
 
 <!---------------- ⭐️  X  ⭐️ ---------------->
 
