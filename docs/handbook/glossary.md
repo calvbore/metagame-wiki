@@ -60,7 +60,7 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DeFi
 
-<!-- TODO -->
+Decentralized finance (DeFi) is a financial ecosystem built upon smart contracts and peer-to-peer protocols (primarily Ethereum), enabling financial activities such as lending, derivatives, and trading without the authority of a centralized entity.
 
 ## Discord
 
