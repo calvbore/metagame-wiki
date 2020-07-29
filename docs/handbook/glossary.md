@@ -82,7 +82,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Ethereum
 
-<!-- TODO -->
+An open source blockchain and community-built technology behind the cryptocurrency Ether (ETH) and an active ecosystem of decentralized applications.
+
+*Alt.*: [Ethereum](https://github.com/ethereum) organization on GitHub
 
 <!---------------- ⭐️  F  ⭐️ ---------------->
 
