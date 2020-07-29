@@ -90,7 +90,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Gamification
 
-<!-- TODO -->
+The process of incentivizing seemingly mundane tasks with feelings of epic accomplishment and meaning.
+
+See [article](https://metagame.substack.com/p/metagame-octalysis-framework-3) for more details.
 
 ## GitHub
 
