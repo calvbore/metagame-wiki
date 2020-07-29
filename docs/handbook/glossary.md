@@ -64,7 +64,10 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## Discord
 
-<!-- TODO -->
+A proprietary VoIP application used for creating and organizing communities.
+
+See [Discord website](https://discord.com)
+
 
 ## Discourse
 
