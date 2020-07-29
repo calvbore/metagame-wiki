@@ -78,7 +78,7 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## ETH
 
-<!-- TODO -->
+Ether (Eth) is the native cryptocurrency of the Ethereum blockchain. It is used to pay transaction and computation fees on the network.
 
 ## Ethereum
 
