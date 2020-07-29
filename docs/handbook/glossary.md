@@ -40,7 +40,9 @@ Request missing terms [here](https://forum.metagame.wtf/t/wiki-glossary/346).
 
 ## DAO
 
-<!-- TODO -->
+Decentralized Autonomous Organizations (DAOs) are entities whose bylaws are encoded in smart contracts, so that all participants have assurance about the rules of the game. They allow diverse groups of people across the planet to manage resources and make decisions with minimal trust in one another.
+
+See [DAO on Wikipedia](https://wikipedia.org/wiki/Decentralized_autonomous_organization)
 
 ## DAOHaus
 
